@@ -10,3 +10,7 @@ function userlogin(user, senha) {
         }
     };
 }
+
+function soma(x, y) {
+    
+}
